@@ -1,6 +1,6 @@
 # SIKKA - Train Schedule & Reservation System
 
-CS1350 Software Engineering 1 | Imam Mohammad Ibn Saud Islamic University
+CS1350 Software Engineering 2 | Imam Mohammad Ibn Saud Islamic University
 
 ## Team
 | Name | ID | Role |
